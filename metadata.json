@@ -1,0 +1,8 @@
+{
+  "name": "Café Aurora",
+  "description": "Café Aurora: um cantinho fictício de café, afeto e boas conversas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
